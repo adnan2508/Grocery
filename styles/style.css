@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:#0fb12a;
+    margin: 10px;
+    text-align: center;
+}
+img{
+    position: relative;
+    width: 600px;
+    height: 500px;
+}
+p{
+    margin: 10px;
+}
+.feels{
+    color:#0fb12a;
+}
